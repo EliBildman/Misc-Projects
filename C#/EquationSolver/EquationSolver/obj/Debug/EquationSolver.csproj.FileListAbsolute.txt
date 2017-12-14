@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\EquationSolver\EquationSolver\bin\Debug\EquationSolver.exe.config
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\EquationSolver\EquationSolver\bin\Debug\EquationSolver.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\EquationSolver\EquationSolver\bin\Debug\EquationSolver.pdb
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csprojResolveAssemblyReference.cache
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\EquationSolver\EquationSolver\obj\Debug\EquationSolver.pdb

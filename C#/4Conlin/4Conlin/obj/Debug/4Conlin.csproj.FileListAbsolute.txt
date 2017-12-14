@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\bin\Debug\4Conlin.exe.config
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\bin\Debug\4Conlin.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\bin\Debug\4Conlin.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\obj\Debug\4Conlin.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\obj\Debug\4Conlin.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\4Conlin\4Conlin\obj\Debug\4Conlin.csprojResolveAssemblyReference.cache

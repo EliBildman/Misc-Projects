@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\StemAndLeaf\StemAndLeaf\bin\Debug\StemAndLeaf.exe.config
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\StemAndLeaf\StemAndLeaf\obj\Debug\StemAndLeaf.csprojResolveAssemblyReference.cache
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\StemAndLeaf\StemAndLeaf\bin\Debug\StemAndLeaf.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\StemAndLeaf\StemAndLeaf\bin\Debug\StemAndLeaf.pdb
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\StemAndLeaf\StemAndLeaf\obj\Debug\StemAndLeaf.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\StemAndLeaf\StemAndLeaf\obj\Debug\StemAndLeaf.pdb

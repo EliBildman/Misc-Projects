@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\bin\Debug\RealAI.exe.config
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\obj\Debug\RealAI.csprojResolveAssemblyReference.cache
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\bin\Debug\RealAI.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\bin\Debug\RealAI.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\obj\Debug\RealAI.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\RealAI\RealAI\obj\Debug\RealAI.pdb

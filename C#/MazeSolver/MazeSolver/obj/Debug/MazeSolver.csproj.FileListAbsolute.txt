@@ -1,0 +1,5 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb

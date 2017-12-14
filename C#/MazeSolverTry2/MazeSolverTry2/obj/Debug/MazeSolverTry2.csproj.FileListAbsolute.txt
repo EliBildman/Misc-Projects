@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\bin\Debug\MazeSolverTry2.exe.config
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\bin\Debug\MazeSolverTry2.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\bin\Debug\MazeSolverTry2.pdb
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\obj\Debug\MazeSolverTry2.csprojResolveAssemblyReference.cache
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\obj\Debug\MazeSolverTry2.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\MazeSolverTry2\MazeSolverTry2\obj\Debug\MazeSolverTry2.pdb

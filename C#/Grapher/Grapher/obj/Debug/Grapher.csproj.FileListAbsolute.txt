@@ -1,0 +1,6 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.exe.config
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.csprojResolveAssemblyReference.cache
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.pdb
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.exe
+C:\Users\eli\OneDrive\Documents\Visual Studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.pdb

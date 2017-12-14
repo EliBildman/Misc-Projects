@@ -1,0 +1,9 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\bin\Debug\testing.exe.config
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\bin\Debug\testing.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\bin\Debug\testing.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.Form1.resources
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.Properties.Resources.resources
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.csproj.GenerateResource.Cache
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\testing\testing\obj\Debug\testing.pdb

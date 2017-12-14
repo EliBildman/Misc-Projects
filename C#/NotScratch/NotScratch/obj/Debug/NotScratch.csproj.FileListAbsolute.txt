@@ -1,0 +1,9 @@
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\bin\Debug\NotScratch.exe.config
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\bin\Debug\NotScratch.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\bin\Debug\NotScratch.pdb
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.csprojResolveAssemblyReference.cache
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.Form1.resources
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.Properties.Resources.resources
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.csproj.GenerateResource.Cache
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.exe
+c:\users\eli\onedrive\documents\visual studio 2015\Projects\NotScratch\NotScratch\obj\Debug\NotScratch.pdb
