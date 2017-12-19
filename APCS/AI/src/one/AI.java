@@ -45,7 +45,7 @@ public class AI
 	}
 	
 	public static void main(String[] args) {
-		AI net = new AI("My name is tyler marcus and I'm here to help! I am clean at animation and i cannot seem to keep my dick in my pants!");
+		AI net = new AI("Hello World!");
 		System.out.println(net.runTheNumbers());
 	}
 }
